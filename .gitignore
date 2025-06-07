@@ -1,0 +1,5 @@
+# Ignore directories
+Archives/
+Archive/
+metadata_output.json
+config.json
